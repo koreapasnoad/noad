@@ -58,3 +58,7 @@ www.koreapas.com###bannerContainer
 www.koreapas.com###bannerContainer2
 www.koreapas.com###hakbunbbs
 www.koreapas.com###adblock-warning
+www.koreapas.com##div > .bd_color.bd_border
+www.koreapas.com##[id^="re"] > tbody > tr > td > .chu-wrapper
+www.koreapas.com##td:nth-of-type(3) > span:nth-of-type(3)
+www.koreapas.com###content > div > table:nth-child(55)
