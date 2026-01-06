@@ -63,3 +63,5 @@ www.koreapas.com##[id^="re"] > tbody > tr > td > .chu-wrapper
 www.koreapas.com##td:nth-of-type(3) > span:nth-of-type(3)
 www.koreapas.com###content > div > table:nth-child(55)
 www.koreapas.com##body > div.widget-wrap > div > div > div.list
+www.koreapas.com## [id^="re"] > tbody > tr:nth-child(3) > td > span.reply2btn
+www.koreapas.com## .mimi.bd_bottom
